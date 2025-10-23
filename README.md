@@ -1,14 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Anas+Ayman;Android+Mobile+App+Developer;Competitive+Programmer;Aspiring+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Anas+Ayman;Android+Developer;Competitive+Programmer;Aspiring+Software+Engineer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌱 About Me
-Hi! I'm **Anas Ayman El-Gebaili**, a passionate **Android Developer Trainee @ DEPI** and **Computer Science student** at **MTI University**.  
-I love building elegant, scalable Android apps and exploring everything about mobile development.  
-Currently improving my **Jetpack Compose**, **UI/UX**, and **problem-solving** skills.
+Hi! I'm **Anas Ayman El-Gebaili**, an **Android Developer** passionate about creating elegant, scalable, and modern mobile apps.  
+I enjoy working with **Kotlin**, **Jetpack Compose**, and **Material Design**, and I’m always exploring new ways to make apps more intuitive and dynamic.  
 
 > “Keep learning. Keep building. Keep improving.”
 
@@ -36,10 +35,9 @@ Currently improving my **Jetpack Compose**, **UI/UX**, and **problem-solving** s
 ---
 
 ### 💼 Experience
-- **Android Mobile App Developer Trainee** @ [Digital Egypt Pioneers Initiative - DEPI](https://mcit.gov.eg)  
-  Building native apps using **Kotlin**, **Jetpack Compose**, **Material Design**, and **Firebase**  
-- **AI Model Performance Evaluator** @ Outlier (Freelance)  
-- **Team Leader** – Agile-based mobile dev teams  
+- **Android Developer** — Building native mobile apps with **Kotlin**, **Jetpack Compose**, and **Firebase**  
+- Focused on UI/UX, app performance, and clean architecture (MVVM)
+- Experience working in collaborative Agile teams
 
 ---
 
@@ -50,14 +48,6 @@ Currently improving my **Jetpack Compose**, **UI/UX**, and **problem-solving** s
   </a>
   <br>
   Practicing algorithms and data structures using **C++** 💪
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnasAyman13&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasAyman13&theme=tokyonight" height="165"/>
 </p>
 
 ---
