@@ -1,26 +1,22 @@
-<!-- Animated header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Hey!+I'm+Anas+Ayman+👋;Android+Developer+from+Egypt+🇪🇬;Building+modern+mobile+apps+📱;Lover+of+clean+UI%2FUX+design+💚" alt="Typing SVG" />
-</h1>
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/UDclWKlmfmq7F04sMR/giphy.gif" width="140" alt="Android Robot Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Anas+Ayman;Android+Mobile+App+Developer;Competitive+Programmer;Aspiring+Software+Engineer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 💚 **Android Developer** passionate about building smooth, modern, and beautiful apps.  
-- 🧠 Skilled in **Kotlin**, **Java**, **C++**, and **Jetpack Compose**.  
-- 🔥 Exploring **Firebase**, **AI Integration**, and **App Architecture (MVVM, Hilt, etc.)**.  
-- 💬 Ask me about Android, Firebase, or Mobile UI design.  
-- 📍 Cairo, Egypt  
+### 🌱 About Me
+Hi! I'm **Anas Ayman El-Gebaili**, a passionate **Android Developer Trainee @ DEPI** and **Computer Science student** at **MTI University**.  
+I love building elegant, scalable Android apps and exploring everything about mobile development.  
+Currently improving my **Jetpack Compose**, **UI/UX**, and **problem-solving** skills.
+
+> “Keep learning. Keep building. Keep improving.”
 
 ---
 
-### 🧠 Tech Stack
+### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,androidstudio,firebase,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github,cpp,firebase,figma,vscode" />
 </p>
 
 ---
@@ -28,51 +24,60 @@
 ### 🚀 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [Newsly](https://github.com/AnasAyman13/Newsly) | 📰 Modern Android News App built with Kotlin & Firebase | Kotlin + Firebase |
-| [DayMate](https://github.com/AnasAyman13/DayMate) | 📅 Smart daily planner app with reminders | Kotlin + Jetpack Compose |
-| [HealthMate-BMI-Calculator](https://github.com/AnasAyman13/HealthMate-BMI-Calculator) | 💪 BMI calculator with clean UI | Kotlin |
-| [Quotesify](https://github.com/AnasAyman13/Quotesify) | 💭 Inspirational quotes app | Kotlin + XML UI |
-| [WeatherNow](https://github.com/AnasAyman13/WeatherNow) | 🌤 Weather app using REST API | Kotlin + Retrofit |
-| [Taskify](https://github.com/AnasAyman13/Taskify) | ✅ Simple to-do app | Kotlin + Jetpack Compose |
-| [ExpenseTracker](https://github.com/AnasAyman13/ExpenseTracker) | 💵 Expense tracker with charts | Kotlin + Room DB |
+| 📰 [Newsly – Android News App](https://lnkd.in/d5abnEeM) | A modern Kotlin + XML news app using Firebase & MVVM | Kotlin · Firebase · MVVM |
+| 💳 [Banque Misr Login UI – Jetpack Compose](https://lnkd.in/d4G8h8gN) | Dynamic bilingual login UI with Material 3 | Jetpack Compose · Kotlin |
+| 🎯 HealthMate | BMI Calculator App with clean UI and logic | Kotlin · Android Studio |
+| 🎲 Dice Roller | Simple fun app using random logic | Kotlin · XML |
+
+<p align="center">
+  <b>✨ More projects coming soon...</b>
+</p>
 
 ---
 
-### 💫 Android Vibes
+### 💼 Experience
+- **Android Mobile App Developer Trainee** @ [Digital Egypt Pioneers Initiative - DEPI](https://mcit.gov.eg)  
+  Building native apps using **Kotlin**, **Jetpack Compose**, **Material Design**, and **Firebase**  
+- **AI Model Performance Evaluator** @ Outlier (Freelance)  
+- **Team Leader** – Agile-based mobile dev teams  
+
+---
+
+### 🧠 Problem Solving
 <p align="center">
-  <img src="https://media.giphy.com/media/XbZ1VSmFUZ5vFZQG5C/giphy.gif" width="250" alt="Android Coding Animation" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Mobile Coding Animation" />
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="Android Robot Animation" />
+  <a href="https://codeforces.com/profile/AnasAyman13">
+    <img src="https://img.shields.io/badge/Codeforces-AnasAyman13-blue?style=for-the-badge&logo=codeforces" />
+  </a>
+  <br>
+  Practicing algorithms and data structures using **C++** 💪
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnasAyman13&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasAyman13&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnasAyman13&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasAyman13&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/anasayman13" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anas%20Ayman-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:AnasAymanEl-gebaili@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://codeforces.com/profile/AnasAyman13" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-AnasAyman13-orange?style=for-the-badge&logo=codeforces" />
-  </a>
-  <a href="https://github.com/AnasAyman13">
-    <img src="https://img.shields.io/badge/GitHub-AnasAyman13-black?style=for-the-badge&logo=github" />
-  </a>
+  <a href="https://github.com/AnasAyman13"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anasayman13/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:AnasAymanEl-gebaili@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧩 Android Vibes
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnasAyman13/AnasAyman13/main/assets/android-bounce.gif" width="100" alt="Android Animation" />
 </p>
 
 ---
 
 <p align="center">
-  <b>“Code. Build. Repeat 💚”</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=80&section=footer"/>
 </p>
