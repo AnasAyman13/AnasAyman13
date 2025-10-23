@@ -11,6 +11,23 @@ I also enjoy solving challenging problems on **Codeforces**, where I sharpen my 
 
 ---
 
+### 🧰 Tech Stack  
+
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpack compose" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="material ui" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="xml" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="55" height="55"/>
+</p>
+
+---
+
 ### 🚀 Featured Projects  
 
 #### 🧭 [DayMate – Smart Daily Companion](#)
@@ -65,7 +82,7 @@ A fun and simple app demonstrating logic, randomness, and interaction with anima
 
 ### 🧠 Problem Solving  
 💻 Check out my [Codeforces Profile](https://codeforces.com/profile/AnasAyman13)  
-I love tackling algorithmic challenges and optimizing my solutions in **C++** and **JAVA**.
+I love tackling algorithmic challenges and optimizing my solutions in **C++** and **Java**.
 
 ---
 
