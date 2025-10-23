@@ -65,7 +65,7 @@ A fun and simple app demonstrating logic, randomness, and interaction with anima
 
 ### 🧠 Problem Solving  
 💻 Check out my [Codeforces Profile](https://codeforces.com/profile/AnasAyman13)  
-I love tackling algorithmic challenges and optimizing my solutions in **C++** and **Kotlin**.
+I love tackling algorithmic challenges and optimizing my solutions in **C++** and **JAVA**.
 
 ---
 
