@@ -19,18 +19,42 @@ I enjoy working with **Kotlin**, **Jetpack Compose**, and **Material Design**, a
 </p>
 
 ---
-
 ### 🚀 Featured Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| 📰 [Newsly – Android News App](https://lnkd.in/d5abnEeM) | A modern Kotlin + XML news app using Firebase & MVVM | Kotlin · Firebase · MVVM |
-| 💳 [Banque Misr Login UI – Jetpack Compose](https://lnkd.in/d4G8h8gN) | Dynamic bilingual login UI with Material 3 | Jetpack Compose · Kotlin |
-| 🎯 HealthMate | BMI Calculator App with clean UI and logic | Kotlin · Android Studio |
-| 🎲 Dice Roller | Simple fun app using random logic | Kotlin · XML |
+
+#### 📰 [Newsly – Android News App](https://lnkd.in/d5abnEeM)
+A modern Android news app built with **Kotlin** and **XML**, following the **MVVM architecture**.  
+Includes Firebase Authentication, personalized feeds, and Material Design UI.
+
+> 🧩 *Tech:* Kotlin · Firebase · MVVM · Retrofit · Glide
+
+---
+
+#### 💳 [Banque Misr Login UI – Jetpack Compose](https://lnkd.in/d4G8h8gN)
+Recreated Banque Misr’s login screen using **Jetpack Compose** and **Material 3**,  
+featuring full bilingual support (Arabic ↔ English), responsive layout, and dynamic theming.
+
+> 🧩 *Tech:* Jetpack Compose · Kotlin · Material 3
+
+---
+
+#### 🎯 HealthMate
+A clean and simple **BMI Calculator App** designed with focus on usability and animation.
+
+> 🧩 *Tech:* Kotlin · Android Studio · UI/UX
+
+---
+
+#### 🎲 Dice Roller
+Fun and minimal app demonstrating random logic and user interaction with smooth animation.
+
+> 🧩 *Tech:* Kotlin · XML
+
+---
 
 <p align="center">
-  <b>✨ More projects coming soon...</b>
+  <b>✨ More Android projects coming soon... Stay tuned!</b>
 </p>
+
 
 ---
 
