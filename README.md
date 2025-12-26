@@ -36,14 +36,14 @@ A productivity app combining alarms, health tips, and reminders into one simple 
 
 ---
 
-#### 📰 [Newsly – Android News App](https://lnkd.in/d5abnEeM)
+#### 📰 [Newsly – Android News App]([https://lnkd.in/d5abnEeM](https://github.com/AnasAyman13/Newsly))
 A modern Android news app built with **Kotlin** and **Firebase**, following the **MVVM architecture**.  
 Includes authentication, personalized feeds, and responsive design.  
 > 🧩 *Tech:* Kotlin · Firebase · MVVM · Retrofit · Glide  
 
 ---
 
-#### 💳 [Banque Misr Login UI – Jetpack Compose](https://lnkd.in/d4G8h8gN)
+#### 💳 [Banque Misr Login UI – Jetpack Compose](https://github.com/AnasAyman13/BanqueMisrLogin)
 Recreated Banque Misr’s login screen using **Jetpack Compose** and **Material 3**,  
 featuring full bilingual support (Arabic ↔ English) and dynamic button states.  
 > 🧩 *Tech:* Jetpack Compose · Kotlin · Material 3  
