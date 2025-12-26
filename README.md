@@ -30,7 +30,7 @@ I also enjoy solving challenging problems on **Codeforces**, where I sharpen my 
 
 ### 🚀 Featured Projects  
 
-#### 🧭 [DayMate – Smart Daily Companion](#)
+#### 🧭 [DayMate – Smart Daily Companion](https://github.com/AnasAyman13/DayMate)
 A productivity app combining alarms, health tips, and reminders into one simple timeline interface — designed with Arabic and global users in mind.  
 > 🧩 *Tech:* Kotlin · Android Studio · Material Design · Jetpack Components  
 
@@ -50,25 +50,25 @@ featuring full bilingual support (Arabic ↔ English) and dynamic button states.
 
 ---
 
-#### 🎯 [HealthMate – BMI Calculator App](#)
+#### 🎯 [HealthMate – BMI Calculator App](https://github.com/AnasAyman13/HealthMate-BMI-Calculator)
 A clean and intuitive **BMI Calculator App** with category-based results and animations.  
 > 🧩 *Tech:* Kotlin · Android Studio · UI/UX  
 
 ---
 
-#### ✈️ [Tap Travel Guide App](#)
+#### ✈️ [Tap Travel Guide App](https://github.com/AnasAyman13/TapTravel-Guide-App)
 A travel-themed app that helps users explore destinations and attractions with interactive cards.  
 > 🧩 *Tech:* Kotlin · RecyclerView · Intent Handling  
 
 ---
 
-#### 🛫 [EgyptAir Single Screen App](#)
+#### 🛫 [EgyptAir Single Screen App](https://github.com/AnasAyman13/EgyptAir-App)
 A single-screen Android app built with XML showcasing flight details in a clean, bilingual design.  
 > 🧩 *Tech:* Kotlin · XML · Material Design  
 
 ---
 
-#### 🎲 [Dice Roller App](#)
+#### 🎲 [Dice Roller App](#https://github.com/AnasAyman13/DiceRollerApp)
 A fun and simple app demonstrating logic, randomness, and interaction with animation.  
 > 🧩 *Tech:* Kotlin · XML  
 
