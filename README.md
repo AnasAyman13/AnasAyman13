@@ -1,13 +1,16 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=34D058&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Anas+Ayman+El-Gebaili+👋;Android+Developer+%7C+Competitive+Programmer;Building+modern+and+user-focused+mobile+apps+📱;Always+learning+and+improving+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=34D058&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Anas+Ayman+El-Gebaili+👋;Android+Developer+%7C+Competitive+Programmer;Building+apps+with+Kotlin,+Compose+%26+Flutter;Creating+smooth+mobile+experiences+📱;Always+learning+and+improving+💡" alt="Typing SVG" />
 </h1>
 
 ---
 
-### 👨‍💻 About Me  
-I'm **Anas Ayman El-Gebaili**, an **Android Developer** passionate about crafting beautiful, high-performance mobile apps using **Kotlin** and **Jetpack Compose**.  
-I focus on building smooth, accessible mobile experiences for **Arabic and global users**.  
-I also enjoy solving challenging problems on **Codeforces**, where I sharpen my logic and coding efficiency.
+### 👨‍💻 About Me
+
+I'm **Anas Ayman El-Gebaili**, an **Android Developer** passionate about crafting beautiful and high-performance mobile applications.
+
+I primarily build Android apps using **Kotlin** and **Jetpack Compose**, while also expanding my expertise in **Flutter**, modern architectures, and scalable mobile solutions.
+
+I enjoy turning ideas into polished user experiences and continuously improving my problem-solving skills through competitive programming on **Codeforces**.
 
 ---
 
@@ -24,6 +27,8 @@ I also enjoy solving challenging problems on **Codeforces**, where I sharpen my 
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="material ui" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="xml" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="55" height="55"/>
 </p>
 
 ---
@@ -36,10 +41,26 @@ A productivity app combining alarms, health tips, and reminders into one simple 
 
 ---
 
+#### ☕ [Cup Tales – Digital Cafe Ordering Platform](https://github.com/AnasAyman13/Cup-Tales)
+
+A commercial mobile application developed for a cafe client, providing a modern digital menu and seamless ordering experience.
+
+> 🧩 Tech: Flutter · BLoC/Cubit · Supabase · PostgreSQL
+
+---
+
+#### 🔢 [Numerical Analysis Solver](https://github.com/AnasAyman13/NumericalAnalysisSolver)
+
+A native Android application built with Kotlin and Jetpack Compose to solve numerical analysis methods step-by-step with high precision and a clean educational interface.
+
+> 🧩 Tech: Kotlin · Jetpack Compose · Material Design
+
+---
+
 #### 📰 [Newsly – Android News App](https://github.com/AnasAyman13/Newsly)
 A modern Android news app built with **Kotlin** and **Firebase**, following the **MVVM architecture**.  
 Includes authentication, personalized feeds, and responsive design.  
-> 🧩 *Tech:* Kotlin · Firebase · MVVM · Retrofit · Glide  
+> 🧩 *Tech:* Kotlin · Firebase · MVVM · Retrofit · Glide
 
 ---
 #### 🎯 [HealthMate – BMI Calculator App](https://github.com/AnasAyman13/HealthMate-BMI-Calculator)
