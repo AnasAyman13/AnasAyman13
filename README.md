@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Anas Ayman El-Gebaili**, an **Android Developer** passionate about crafting beautiful and high-performance mobile applications.
+I'm **Anas Ayman El-Gebaili**, a **Mobile Application Engineer** passionate about crafting beautiful and high-performance mobile applications.
 
 I primarily build Android apps using **Kotlin** and **Jetpack Compose**, while also expanding my expertise in **Flutter**, modern architectures, and scalable mobile solutions.
 
